@@ -1,44 +1,48 @@
 # Privacy Policy for NotePlus
 
-_This policy is effective as of September 21, 2025._
+This policy is effective as of November 13, 2025.
 
----
-
-### Introduction
+## Introduction
 
 Welcome to NotePlus! This Privacy Policy explains how RoukoApps ("we," "us," or "our") handles your information. Your privacy is our top priority, and we have designed NotePlus to be a secure and private space for your thoughts.
 
-### Information We Collect (and Don't Collect)
+## Information We Collect (and Don't Collect)
 
 NotePlus is an offline-first application. This means we do NOT collect, store, or transmit any of your personal data to our servers.
 
-#### 1. Information You Provide:
+### 1. Information You Provide:
+
 The notes, titles, and content you create are stored locally and securely on your device's internal storage. We have no access to this information.
 
-#### 2. Information We DO NOT Collect:
-Because NotePlus does not have internet access, we do not collect any Personal Identifiable Information (PII), analytics, usage data, device information, location, contacts, or any other data from you or your device.
+### 2. Information We DO NOT Collect:
 
-### Data Storage and Security
+Because NotePlus does not use internet access or third-party analytics/ads SDKs, we do not collect personal information, usage/analytics data, device information, location, contacts, or any other data.
 
-All your notes are stored in a private, sandboxed database on your device. We rely on the security features of the Android Operating System to protect this data. Your notes do not leave your device unless you choose to back them up.
+## Data Storage and Security
 
-### Data Backup and Restore
+All your notes are stored in a private, sandboxed database on your device. We rely on the security features of the Android operating system to protect this data. Your notes do not leave your device unless you choose to back them up.
 
-NotePlus uses Android's built-in Auto Backup service to back up your app data (your notes) to your personal Google Drive storage. This process is managed entirely by Google and is subject to Google's Privacy Policy. We do not have access to your backup files.
+## Data Backup and Restore
 
-### Third-Party Services
+NotePlus does not automatically back up your data to any cloud or server. Your notes remain on your device by default. If you choose to back up your device or export data using system tools or third-party services, that is entirely under your control and governed by those services’ policies—we do not access or manage those backups.
 
-NotePlus does not use any third-party services like analytics, advertising networks, or social media SDKs that could collect data from you.
+## Data Retention & Deletion
 
-### Children's Privacy
+Your data stays on your device until you delete it from within the app or uninstall the app. We do not maintain any server copies, so we cannot recover or delete data on your behalf.
 
-Our app does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+## Third-Party Services
 
-### Changes to This Privacy Policy
+NotePlus does not use third-party services such as analytics, advertising networks, or social media SDKs that collect data from you.
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+## Children's Privacy
 
-### Contact Us
+Our app is not directed to children under the age of 13, and we do not knowingly collect personally identifiable information from children under 13.
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-**Email:** roukoappsteam@gmail.com
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this page periodically for updates.
+
+## Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, contact us at:
+Email: roukoappsteam@gmail.com
